@@ -16,7 +16,7 @@ For a more complex example to show how this structure scales, see https://github
 
 ```bash
 git clone https://github.com/AeternaGroup/foundry-quickstart.git
-cd quickstart
+cd foundry-quickstart
 ```
 
 Open `./containers/terragrunt.hcl` in your IDE of choice
